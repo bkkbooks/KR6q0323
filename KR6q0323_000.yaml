@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0323/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 希叟紹曇禪師廣錄
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X70/X70n1390.xml
+    old_id: X70n1390
+hash: sha256:5334e50a5392705059776850d875eb755ad7d30b4066c3987cad29c3f7394eeb
